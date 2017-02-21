@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<timeLogEntries>
+  <time id="1" path="/Proyectos/PSP Fundamentals &amp; Advanced/Student Profile" start="@1486237199270" delta="3" />
+  <time id="2" path="/Proyectos/PSP Fundamentals &amp; Advanced/Program 1/Planning" start="@1486237425541" delta="32" />
+  <time id="3" path="/Proyectos/PSP Fundamentals &amp; Advanced/Program 1/Design" start="@1486239369301" delta="29" />
+  <time id="4" path="/Proyectos/PSP Fundamentals &amp; Advanced/Program 1/Code" start="@1486241102715" delta="4" />
+  <time id="5" path="/Proyectos/PSP Fundamentals &amp; Advanced/Program 1/Design" start="@1486241383676" delta="1" />
+  <time id="6" path="/Proyectos/PSP Fundamentals &amp; Advanced/Program 1/Code" start="@1486241463706" delta="157" />
+  <time id="7" path="/Proyectos/PSP Fundamentals &amp; Advanced/Program 1/Compile" start="@1486250864455" delta="31" />
+  <time id="8" path="/Proyectos/PSP Fundamentals &amp; Advanced/Program 1/Test" start="@1486252715686" delta="39" />
+  <time id="9" path="/Proyectos/PSP Fundamentals &amp; Advanced/Program 1/Test" start="@1486255101521" delta="4" />
+  <time id="10" path="/Proyectos/PSP Fundamentals &amp; Advanced/Program 1/Postmortem" start="@1486255325736" delta="1" />
+  <time id="11" path="/Proyectos/PSP1 LOC/Planning" start="@1487452921768" delta="153" />
+  <time id="12" path="/Proyectos/PSP1 LOC/Design" start="@1487462123084" delta="23" />
+  <time id="13" path="/Proyectos/PSP1 LOC/Code" start="@1487463478966" delta="161" interrupt="14" />
+  <time id="14" path="/Proyectos/PSP1 LOC/Code" start="@1487473999086" delta="1" />
+  <time id="15" path="/Proyectos/PSP1 LOC/Compile" start="@1487474062983" delta="7" />
+  <time id="16" path="/Proyectos/PSP1 LOC/Test" start="@1487474476162" delta="120" />
+  <time id="17" path="/Proyectos/PSP1 LOC/Postmortem" start="@1487481688794" delta="30" />
+  <time id="18" path="/Proyectos/PSP1 LOC MAVEN/Planning" start="@1487544554090" delta="89" />
+  <time id="19" path="/Proyectos/PSP1 LOC MAVEN/Planning" start="@1487550206765" delta="34" />
+  <time id="20" path="/Proyectos/PSP1 LOC_MAVEN/Planning" start="@1487552364285" delta="76" />
+  <time id="21" path="/Proyectos/PSP1 LOC_MAVEN/Design" start="@1487556926927" delta="22" />
+  <time id="22" path="/Proyectos/PSP1 LOC_MAVEN/Code" start="@1487558260506" delta="7" />
+  <time id="23" path="/Proyectos/PSP1 LOC_MAVEN/Test" start="@1487558667704" delta="1" />
+  <time id="24" path="/Proyectos/PSP1 LOC_MAVEN/Postmortem" start="@1487558667886" />
+</timeLogEntries>

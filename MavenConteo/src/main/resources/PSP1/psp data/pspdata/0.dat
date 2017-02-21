@@ -1,0 +1,35 @@
+#include <pspForEng3/profileData.txt>
+= Data for /Non Project/PSP Fundamentals & Advanced/Student Profile
+Completed=@1486237380567
+EmpSoftwareIndustry="tech
+ExpOverall=2.0
+ExpPresentOrganization=1.0
+ExpPresentPosition=1.0
+ExpSCM=0.0
+ExpSPIQM=0.0
+ExpSQA=0.0
+ExpSWCodeUT=2.0
+ExpSWDesign=0.0
+ExpSWIST=0.0
+ExpSWRequirements=0.0
+HighLevelLangCount=2.0
+HighestDegree="Professional
+KLOCTotalExp=5.0
+KLOCTotalYRAllLang=3.0
+KLOCTotalYRProjectLang=1.0
+LOCProjectLangExp=2.0
+LangExpVCS=1.0
+MajorFieldStudy="Electronic Engineer
+PercentCodeUTYR=0.7
+PercentDesignYR=0.0
+PercentISTYR=0.0
+PercentOther=0.0
+PercentRequirementsYR=0.0
+PercentSCMYR=0.0
+PercentSPIQMYR=0.0
+PercentSQAYR=0.0
+Profile_Initials="JJOH
+Profile_Instructor="Mario Riveros
+Profile_Organization="Megalinea
+Started=@1486237199270
+Time==3.0

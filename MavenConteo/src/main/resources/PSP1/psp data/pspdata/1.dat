@@ -1,0 +1,42 @@
+#include <pspForEng3/psp0/dataFile.txt>
+= Data for /Non Project/PSP Fundamentals & Advanced/Program 1
+Code/Completed/Edit_Timestamp=@1486250864439
+Code/Completed=@1486250864439
+Code/Defects Injected==8.0
+Code/Defects Removed==10.0
+Code/Started=@1486241102715
+Code/Time==161.0
+Compile/Completed/Edit_Timestamp=@1486252715674
+Compile/Completed=@1486252715674
+Compile/Defects Removed==2.0
+Compile/Started=@1486250864455
+Compile/Time==31.0
+Completed/Edit_Timestamp=@1486255291749
+Completed=@1486255291749
+Design/Completed/Edit_Timestamp=@1486241102703
+Design/Completed=@1486241102703
+Design/Defects Injected==6.0
+Design/Defects Removed==1.0
+Design/Started=@1486239369301
+Design/Team_Note="<note author='Johann De Jesus Olaya Herrera' timestamp='@1486241457698' format='text'>Se registró un arreglo en la fase de planeación que corresponde a la de diseño, se realiza la inserción del arreglo en diseño.\nLa correción con ID 2 no se debe tener en cuenta.</note>
+Design/Time==30.0
+Estimated Time/Edit_Timestamp=@1486238801003
+Estimated Time=270.0
+PSP Project Document Directory="C:\\Users\\Johann\\Documents\\Conceptos Avanzadas de Ing
+Planning/Completed/Edit_Timestamp=@1486239369292
+Planning/Completed=@1486239369292
+Planning/Defects Injected==2.0
+Planning/Defects Removed==2.0
+Planning/Started=@1486237425541
+Planning/Time==32.0
+Postmortem/Completed/Edit_Timestamp=@1486255363239
+Postmortem/Completed=@1486255363239
+Postmortem/Started=@1486255325736
+Postmortem/Time==1.0
+Requirements Document Filename="Requerimientos.xlsx
+Started=@1486237425541
+Test/Completed/Edit_Timestamp=@1486255085227
+Test/Completed=@1486255085227
+Test/Defects Removed==1.0
+Test/Started=@1486252715686
+Test/Time==43.0

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Documentation" inj="Planning" rem="Planning" ft="0.6" fd="" desc="Problema al asignar la ruta de los requerimientos." date="@1486239276934" />
+  <defect num="2" type="Function" inj="Planning" rem="Planning" ft="1.1" fd="" desc="Faltó constructor a la clase EstadisticoControlador" date="@1486240717947" />
+  <defect num="3" type="Function" inj="Design" rem="Design" ft="0.7" fd="" desc="Faltó constructor a la clase EstadisticoControlador" date="@1486241327316" />
+  <defect num="4" type="Syntax" inj="Code" rem="Code" ft="1.4" fd="" desc="Error al crear panel sin heredar JFrame." date="@1486241754932" />
+  <defect num="5" type="Function" inj="Design" rem="Code" ft="1.1" fd="" desc="Faltó constructor para la clase head de la lista enlazada" date="@1486242759478" />
+  <defect num="6" type="Function" inj="Design" rem="Code" ft="1.1" fd="" desc="Faltó método de obtener siguiente para la estructura de datos de lista enlazada." date="@1486244204457" />
+  <defect num="7" type="Syntax" inj="Code" rem="Code" ft="0.8" fd="" desc="Error al regresar un valor tipo float cuando se realiza la operación de raiz cuadrada. El valor debe ser double" date="@1486246446579" />
+  <defect num="8" type="Function" inj="Code" rem="Code" ft="3.4" fd="" desc="Faltó instanciar la clase controlador." date="@1486247216949" />
+  <defect num="9" type="Function" inj="Design" rem="Code" ft="1.4" fd="" desc="Faltó método para cargar el archivo de texto." date="@1486247499647" />
+  <defect num="10" type="Syntax" inj="Code" rem="Code" ft="9.1" fd="" desc="Error al tener un constructor con tipo de dato float y crearlo con double. Cambio en las clases afectadas" date="@1486248045055" />
+  <defect num="11" type="Syntax" inj="Design" rem="Code" ft="5.5" fd="" desc="Se crea clase de arranque que instancie el modelo la vista y el controlados en su método main." date="@1486248596786" />
+  <defect num="12" type="Syntax" inj="Code" rem="Code" ft="0.5" fd="11" desc="Error al usar métodos de una clase sin instanciarla" date="@1486248761248" />
+  <defect num="13" type="Function" inj="Design" rem="Code" ft="2.1" fd="" desc="Agregar método para mostrar excepciones en la vista." date="@1486249342032" />
+  <defect num="14" type="Function" inj="Code" rem="Compile" ft="17.9" fd="" desc="Se realiza ajuste en cálculo de desviación estandar puesto que no se actualizó el nodo de referencia quedando en un ciclo infinito." date="@1486250973513" />
+  <defect num="15" type="Function" inj="Code" rem="Compile" ft="1.9" fd="" desc="Se reinicia el conteo de registros al cálcular la desviación estandar a partir de la media." date="@1486252581839" />
+  <defect num="16" type="Function" inj="Code" rem="Test" ft="4.4" fd="" desc="Personalizar mensaje de error." date="@1486254338764" />
+</defectLog>

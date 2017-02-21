@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Function" inj="Code" rem="Test" ft="29.4" fd="" desc="Se estaba realizando operación trim()  a una variable que en determinado momento era null" date="@1487474503929" />
+</defectLog>

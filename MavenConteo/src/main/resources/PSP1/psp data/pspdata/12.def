@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<defectLog>
+  <defect num="1" type="Function" inj="Code" rem="Test" ft="21.9" fd="" desc="Se realiza ajuste de Trim(), cuando se terminan las líneas que se han leido." date="@1487647485405" />
+  <defect num="2" type="Function" inj="Code" rem="Test" ft="8.8" fd="" desc='Se realiza ajuste para identificar un método constructor.&#10;Se agrega método que valida sí la clase contiene texto y ajuste en el conteo cuando el nombre del método está unido a un signo "(".' date="@1487649920243" />
+</defectLog>

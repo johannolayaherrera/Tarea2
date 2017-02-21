@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<timeLogEntries>
+  <time id="25" path="/Proyectos/PSP1 LOC/Postmortem" start="@1487626092202" delta="5" flag="A" />
+  <time id="26" path="/Proyectos/PSP1 Conteo Maven/Planning" start="@1487626379096" delta="101" flag="A" />
+  <time id="27" path="/Proyectos/PSP1 Conteo Maven/Design" start="@1487632432807" delta="46" flag="A" />
+  <time id="28" path="/Proyectos/PSP1 Conteo Maven/Code" start="@1487635193558" delta="176" flag="A" />
+  <time id="29" path="/Proyectos/PSP1 Conteo Maven/Compile" start="@1487645725062" delta="12" flag="A" />
+  <time id="30" path="/Proyectos/PSP1 Conteo Maven/Test" start="@1487646474753" delta="70" flag="A" />
+  <time id="31" path="/Proyectos/PSP1 Conteo Maven/Postmortem" start="@1487650687502" delta="25" flag="A" />
+</timeLogEntries>
